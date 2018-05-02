@@ -38,3 +38,13 @@ You may alter the configuration of **Configure-Demonstration.ps1** to provide th
 - **$lambdaPackagePath** - The path to the .Zip file containing the compiled Lambda project (AWS.Demonstration.Lambda)
 
 
+
+## Lessons Learned
+
+- The biggest lesson learned from completing this demonstration was that the maturity and documentation for 
+  the AWS Powershell module hindered the effort. Not only did I find discrepancies amongst the Powershell 
+  Cmdlets and their functionality, but the documentation to perform some of the tasks was non-existent. 
+- I really like the power and flexibility that the Lambda services offer.
+- I expect much more powerful tooling for automating this type of implementation. Will likely want to conduct the same demonstration with Puppet/Chef.
+- I need to spend time learning about the best practices for software and services that are 100% cloud-based.
+
